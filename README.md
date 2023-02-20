@@ -12,3 +12,5 @@ This repo contains auxiliary/complimentary files related to the paper *Privacy b
 * File [notebook.ipynb](notebook.ipynb) contains some code used to generate the [Paper Contribution Type bubble chart](images/bubble-se-ka.pdf) (Figure 3 in the paper).
 
 * File [search-string-execution.md](search-string-execution.md) contains the detailed search string execution.
+
+* File [data-plotly-bar-contrib-type-by-year.ods](data/data-plotly-bar-contrib-type-by-year.ods) contains data used to generate the Figure 1 in the paper - Paper type by year.
