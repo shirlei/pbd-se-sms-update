@@ -1,7 +1,7 @@
 ## Privacy by Design in Software Engineering: An update of a Systematic Mapping Study
 
 
-This repo contains auxiliary/complimentary files related to the paper *Privacy by Design in Software Engineering: An update of a Systematic Mapping Study*:
+This repo contains auxiliary/complimentary files related to the paper *Privacy by Design in Software Engineering: An update of a Systematic Mapping Study* (to appear in [SAC 2023](https://www.sigapp.org/sac/sac2023/file2023/SAC2023-FinalProgram_tph%20COLOR.pdf)):
 
 * File [primary-papers.md](primary-papers.md) contains a list of the selected primary papers and its classification.
 
